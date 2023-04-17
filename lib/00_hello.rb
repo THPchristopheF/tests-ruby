@@ -1,7 +1,6 @@
 def hello
-
-end
-
+return "Hello!"
+end 
 def greet(name)
-
-end
+return "Hello, #{name}!"
+end 
